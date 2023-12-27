@@ -14,7 +14,7 @@ Easy to Customize:     The code is well-organized, making it easy to customize a
 Technologies Used: HTML5 ,CSS3
 
 
-
+Screenshots:
 
 ![Screenshot (160)](https://github.com/chandana-gm/eCommerceAppLandingPage/assets/130354667/3d1a1c41-1071-45cf-b9e8-96ef96f04506)
 
